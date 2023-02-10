@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  },
+  "name": "entrega-ninja",
+  "version": "1.0.0",
+  "description": "discord bot for package tracking",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ribe3iro",
+  "license": "ISC"
+}
