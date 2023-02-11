@@ -8,7 +8,7 @@
   "description": "discord bot for package tracking",
   "main": "./src/index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "ts-node ./src/index.ts"
   },
   "author": "ribe3iro",
   "license": "ISC"
